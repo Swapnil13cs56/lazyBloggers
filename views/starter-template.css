@@ -1,0 +1,36 @@
+
+body {
+  padding-top: 30px;
+    font-family: 'Dosis', sans-serif;
+}
+.starter-template {
+  padding: 20px 15px;
+  text-align: center;
+}
+textarea{
+    
+    resize: vertical;/*user can resize vertically but width is fixed*/
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+    padding-top:10px;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  background-color: #1b1b1b;
+}
+
+.emailId{
+    
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.submitBtn{
+    
+   float: right;
+    width:100%;
+}
